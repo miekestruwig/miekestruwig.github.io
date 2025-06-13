@@ -17,10 +17,7 @@
       description:
         - An Intellectual History of Institutionalised Music Studies in South Africa
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - title: Description 3: Sub-description 1; Sub-description 2.
     - title: Master of Music: Musicology
       institution: University of Stellenbosch, Stellenbosch, South Africa
       year: 2021
@@ -79,10 +76,10 @@
       year: 2023
       description: 
 
-     - title: Part-time Lecturer 
+    - title: Part-time Lecturer 
       institution: Department of Music, Stellenbosch University
       year: 2021
-      description: Musicology - World Music
+      description: Musicology - World Music      
 
 - title: Open Source Projects
   type: time_table
@@ -110,18 +107,15 @@
       items:
         - Stellenbosch University Harry Crossley Foundation Scholarship
         - Skye Foundation Scholarship
-     
-     - year: 2020
-       items:
+        
+    - year: 2020
+      items:
         - Stellenbosch University Harry Crossley Foundation Scholarship
         - Canon Collins Trust RMTF Scholarship
 
-      - year: 2019
-        items:
+    - year: 2019
+      items:
         - Nelson Mandela University Vice-Chancellor’s Award for Best First-Degree Graduate, 2018
-      
-
-
         
 - title: Academic Interests
   type: nested_list
