@@ -2,83 +2,128 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mieke Struwig
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17 April 1996
     - name: Languages
-      value: English, German
+      value: English, Afrikaans
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Stellenbosch, Stellenbosch, South Africa
+      year: 2024
       description:
-        - Description 1.
+        - An Intellectual History of Institutionalised Music Studies in South Africa
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Music: Musicology
+      institution: University of Stellenbosch, Stellenbosch, South Africa
+      year: 2021
       description:
-        - Description 1.
+        - Cum Laude
+        - Surveying Post-Apartheid Decolonisation of the BMus Curriculum at Four South African Tertiary Music Departments
+
+    - title: BMus: Performing Arts
+      institution: Nelson Mandela University, Qqeberha, South Africa
+      year: 2021
+      description:
+        - Cum Laude
         - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time Lecturer
+      institution: Department of Music, Stellenbosch University
+      year: 2025
       description:
-        - Description 1.
+        - Musicology: South African Music
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: NRF Innovation Postdoctoral Fellow
+      institution: Africa Open Institute for Music, Research, and Innovation, Stellenbosch University
+      year: 2024-present
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Southern African Music & Sound Encyclopedia (WikiProject)
+      institution: 
+      year: 2024-present
       description:
+        - Author of seven articles on South African music, major contributor to several others, expanded digital availability of scholarly work via Wikipedia.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Secretary
+      institution: South African Society for Research in Music (SASRIM)
+      year: 2023-present
+      description: Responsible for society communications (Website, email, social media), organising initiatives, general admin. Reviewed the society’s expenses and saved the equivalent of our yearly income from membership payments, improving financial sustainability. Led the publication of the first newsletter in almost a decade.
+
+
+    - title: Part-time Lecturer
+      institution: Department of Music, Stellenbosch University
+      year: 2024
+      description: Musicology - 20th-Century Music & Research Methodology
+
+      - title: Guest Lecturer
+      institution: Department of Music, Stellenbosch University
+      year: 2023
+      description: Research Methodology - Archival Research
+
+       - title: Research Assistant: Music and Violence (Dr Carina Venter)
+      institution: Department of Music, Stellenbosch University
+      year: 2023
+      description: 
+
+       - title: Part-time Lecturer 
+      institution: Department of Music, Stellenbosch University
+      year: 2021
+      description: Musicology - World Music
 
 - title: Open Source Projects
-  type: time_table
+  type: 
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title:
+      year: 
+      description: 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NRF Innovation Postdoctoral Fellowship
+      
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Oppenheimer Memorial Trust Postgraduate Scholarship 
+        - Ernst & Ethel Eriksen Trust Bursary
 
+    - year: 2022
+      items:
+        - Stellenbosch University Harry Crossley Foundation Scholarship
+
+     - year: 2021
+      items:
+        - Stellenbosch University Harry Crossley Foundation Scholarship
+        - Skye Foundation Scholarship
+
+     - year: 2020
+       items:
+        - Stellenbosch University Harry Crossley Foundation Scholarship
+        - Canon Collins Trust RMTF Scholarship
+
+      - year: 2019
+        items:
+        - Nelson Mandela University Vice-Chancellor’s Award for Best First-Degree Graduate, 2018
+      
+
+
+        
 - title: Academic Interests
   type: nested_list
   contents:
