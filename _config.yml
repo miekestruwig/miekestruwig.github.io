@@ -87,16 +87,16 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # https://www.linkedin.com/in/mieke-struwig-40720a1a5/
+linkedin_username: mieke-struwig-40720a1a5
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0001-9118-5570
+orcid_id: 0000-0001-9118-5570
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: https://scholar.google.com/citations?user=NoS30rYAAAAJ&hl=en&oi=ao
+scholar_userid: NoS30rYAAAAJ
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
