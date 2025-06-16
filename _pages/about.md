@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://aoinstitute.ac.za/'>Africa Open Institute for Music, Research and Innovation</a> Stellenbosch, South Africa
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  
+  more_info: >
+    <p>Africa Open Institute</p>
+    <p>7 Joubert Street</p>
+    <p>Stellenbosch, South Africa</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
