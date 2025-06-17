@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This website is currently under construction - please contact me if you'd like to know more about my work.Add commentMore actions
+This website is currently under construction - please contact me if you'd like to know more about my work.
 
 I am a NRF Innovation Postdoctoral Fellow at the Africa Open Institute for Music, Research and Innovation at Stellenbosch University, South Africa. I completed her PhD studies in March 2024 under the guidance of Dr Carina Venter and Prof. Stephanus Muller with a dissertation considering the intellectual history of institutionalised music studies in 20th-century South Africa.  
 
